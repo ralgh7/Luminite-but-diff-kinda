@@ -23,4 +23,4 @@ $ npm install
 $ npm start
 ```
 
-# Frontend by Lunadox, Backend Proxies: Ultraviolet <a href="https://discord.gg/unblock">(TN)</a>
+# lol<a href="https://discord.gg/unblock">(TN)</a>
